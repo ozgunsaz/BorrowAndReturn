@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BorrowAndReturn:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BorrowAndReturn_jar</output-path>
+    <root id="archive" name="BorrowAndReturn.jar">
+      <element id="module-output" name="BorrowAndReturn" />
+    </root>
+  </artifact>
+</component>
